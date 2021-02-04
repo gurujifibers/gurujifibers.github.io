@@ -1623,3 +1623,8 @@ a {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
+
+.proImg {
+  height: 400px !important; 
+  width: 400px !important;
+}

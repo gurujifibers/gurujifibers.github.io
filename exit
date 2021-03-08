@@ -1,0 +1,660 @@
+[1mdiff --git a/CNAME b/CNAME[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/css/product.css b/assets/css/product.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/css/style.css b/assets/css/style.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/about.jpg b/assets/img/about.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/apple-touch-icon.png b/assets/img/apple-touch-icon.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/favicon.jpeg b/assets/img/favicon.jpeg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-1.jpg b/assets/img/portfolio/portfolio-1.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-2.jpg b/assets/img/portfolio/portfolio-2.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-3.jpg b/assets/img/portfolio/portfolio-3.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-4.jpg b/assets/img/portfolio/portfolio-4.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-5.jpg b/assets/img/portfolio/portfolio-5.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-6.jpg b/assets/img/portfolio/portfolio-6.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-7.jpg b/assets/img/portfolio/portfolio-7.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-8.jpg b/assets/img/portfolio/portfolio-8.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-9.jpg b/assets/img/portfolio/portfolio-9.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-details-1.jpg b/assets/img/portfolio/portfolio-details-1.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-details-2.jpg b/assets/img/portfolio/portfolio-details-2.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/portfolio/portfolio-details-3.jpg b/assets/img/portfolio/portfolio-details-3.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/slide/s_1.jpeg b/assets/img/slide/s_1.jpeg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/slide/s_2.jpeg b/assets/img/slide/s_2.jpeg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/slide/s_3.jpeg b/assets/img/slide/s_3.jpeg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/slide/s_4.jpeg b/assets/img/slide/s_4.jpeg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/team/team-1.jpg b/assets/img/team/team-1.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/team/team-2.jpg b/assets/img/team/team-2.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/team/team-3.jpg b/assets/img/team/team-3.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/img/team/team-4.jpg b/assets/img/team/team-4.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/js/main.js b/assets/js/main.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/js/product.js b/assets/js/product.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/animate.css/animate.compat.css b/assets/vendor/animate.css/animate.compat.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/animate.css/animate.css b/assets/vendor/animate.css/animate.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/animate.css/animate.min.css b/assets/vendor/animate.css/animate.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/aos/aos.css b/assets/vendor/aos/aos.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/aos/aos.js b/assets/vendor/aos/aos.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-grid.css b/assets/vendor/bootstrap/css/bootstrap-grid.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-grid.css.map b/assets/vendor/bootstrap/css/bootstrap-grid.css.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-grid.min.css b/assets/vendor/bootstrap/css/bootstrap-grid.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map b/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-reboot.css b/assets/vendor/bootstrap/css/bootstrap-reboot.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-reboot.css.map b/assets/vendor/bootstrap/css/bootstrap-reboot.css.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-reboot.min.css b/assets/vendor/bootstrap/css/bootstrap-reboot.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map b/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-utilities.css b/assets/vendor/bootstrap/css/bootstrap-utilities.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-utilities.css.map b/assets/vendor/bootstrap/css/bootstrap-utilities.css.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-utilities.min.css b/assets/vendor/bootstrap/css/bootstrap-utilities.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map b/assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap.css b/assets/vendor/bootstrap/css/bootstrap.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap.css.map b/assets/vendor/bootstrap/css/bootstrap.css.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap.min.css b/assets/vendor/bootstrap/css/bootstrap.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/css/bootstrap.min.css.map b/assets/vendor/bootstrap/css/bootstrap.min.css.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.bundle.js b/assets/vendor/bootstrap/js/bootstrap.bundle.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.bundle.js.map b/assets/vendor/bootstrap/js/bootstrap.bundle.js.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.bundle.min.js b/assets/vendor/bootstrap/js/bootstrap.bundle.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map b/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.esm.js b/assets/vendor/bootstrap/js/bootstrap.esm.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.esm.js.map b/assets/vendor/bootstrap/js/bootstrap.esm.js.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.esm.min.js b/assets/vendor/bootstrap/js/bootstrap.esm.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map b/assets/vendor/bootstrap/js/bootstrap.esm.min.js.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.js b/assets/vendor/bootstrap/js/bootstrap.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.js.map b/assets/vendor/bootstrap/js/bootstrap.js.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.min.js b/assets/vendor/bootstrap/js/bootstrap.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/bootstrap/js/bootstrap.min.js.map b/assets/vendor/bootstrap/js/bootstrap.min.js.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/boxicons/css/animations.css b/assets/vendor/boxicons/css/animations.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/boxicons/css/boxicons.css b/assets/vendor/boxicons/css/boxicons.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/boxicons/css/boxicons.min.css b/assets/vendor/boxicons/css/boxicons.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/boxicons/css/transformations.css b/assets/vendor/boxicons/css/transformations.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/boxicons/fonts/boxicons.eot b/assets/vendor/boxicons/fonts/boxicons.eot[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/boxicons/fonts/boxicons.svg b/assets/vendor/boxicons/fonts/boxicons.svg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/boxicons/fonts/boxicons.ttf b/assets/vendor/boxicons/fonts/boxicons.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/boxicons/fonts/boxicons.woff b/assets/vendor/boxicons/fonts/boxicons.woff[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/boxicons/fonts/boxicons.woff2 b/assets/vendor/boxicons/fonts/boxicons.woff2[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/counterup/counterup.min.js b/assets/vendor/counterup/counterup.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/icofont/fonts/icofont.woff b/assets/vendor/icofont/fonts/icofont.woff[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/icofont/fonts/icofont.woff2 b/assets/vendor/icofont/fonts/icofont.woff2[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/icofont/icofont.min.css b/assets/vendor/icofont/icofont.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/isotope-layout/isotope.pkgd.js b/assets/vendor/isotope-layout/isotope.pkgd.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/isotope-layout/isotope.pkgd.min.js b/assets/vendor/isotope-layout/isotope.pkgd.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/jquery-sticky/jquery.sticky.js b/assets/vendor/jquery-sticky/jquery.sticky.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/jquery.easing/jquery.easing.min.js b/assets/vendor/jquery.easing/jquery.easing.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/jquery/jquery.min.js b/assets/vendor/jquery/jquery.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/jquery/jquery.min.map b/assets/vendor/jquery/jquery.min.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/LICENSE b/assets/vendor/owl.carousel/LICENSE[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/README.md b/assets/vendor/owl.carousel/README.md[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/assets/ajax-loader.gif b/assets/vendor/owl.carousel/assets/ajax-loader.gif[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/assets/owl.carousel.css b/assets/vendor/owl.carousel/assets/owl.carousel.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/assets/owl.carousel.min.css b/assets/vendor/owl.carousel/assets/owl.carousel.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/assets/owl.theme.default.css b/assets/vendor/owl.carousel/assets/owl.theme.default.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/assets/owl.theme.default.min.css b/assets/vendor/owl.carousel/assets/owl.theme.default.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/assets/owl.theme.green.css b/assets/vendor/owl.carousel/assets/owl.theme.green.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/assets/owl.theme.green.min.css b/assets/vendor/owl.carousel/assets/owl.theme.green.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/assets/owl.video.play.png b/assets/vendor/owl.carousel/assets/owl.video.play.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/owl.carousel.js b/assets/vendor/owl.carousel/owl.carousel.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/owl.carousel/owl.carousel.min.js b/assets/vendor/owl.carousel/owl.carousel.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/php-email-form/changelog.txt b/assets/vendor/php-email-form/changelog.txt[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/php-email-form/validate.js b/assets/vendor/php-email-form/validate.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/venobox/venobox.css b/assets/vendor/venobox/venobox.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/venobox/venobox.js b/assets/vendor/venobox/venobox.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/venobox/venobox.min.css b/assets/vendor/venobox/venobox.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/venobox/venobox.min.js b/assets/vendor/venobox/venobox.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/assets/vendor/waypoints/jquery.waypoints.min.js b/assets/vendor/waypoints/jquery.waypoints.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/animate.css b/css/animate.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/aos.css b/css/aos.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/bootstrap-datepicker.css b/css/bootstrap-datepicker.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/bootstrap.min.css b/css/bootstrap.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/bootstrap.min.css.map b/css/bootstrap.min.css.map[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/bootstrap/bootstrap-grid.css b/css/bootstrap/bootstrap-grid.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/bootstrap/bootstrap-reboot.css b/css/bootstrap/bootstrap-reboot.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/bootstrap/bootstrap.css b/css/bootstrap/bootstrap.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/bootstrap/bootstrap.min.css b/css/bootstrap/bootstrap.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/bootstrap/bootstrap.min1.css b/css/bootstrap/bootstrap.min1.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/font-awesome/css/font-awesome.css b/css/font-awesome/css/font-awesome.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/font-awesome/css/font-awesome.min.css b/css/font-awesome/css/font-awesome.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/font-awesome/fonts/FontAwesome.otf b/css/font-awesome/fonts/FontAwesome.otf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/font-awesome/fonts/fontawesome-webfont.eot b/css/font-awesome/fonts/fontawesome-webfont.eot[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/font-awesome/fonts/fontawesome-webfont.svg b/css/font-awesome/fonts/fontawesome-webfont.svg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/font-awesome/fonts/fontawesome-webfont.ttf b/css/font-awesome/fonts/fontawesome-webfont.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/font-awesome/fonts/fontawesome-webfont.woff b/css/font-awesome/fonts/fontawesome-webfont.woff[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/font-awesome/fonts/fontawesome-webfont.woff2 b/css/font-awesome/fonts/fontawesome-webfont.woff2[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/Merriweather-Bold.ttf b/css/fonts/Merriweather-Bold.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/Merriweather-Light.ttf b/css/fonts/Merriweather-Light.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/Merriweather-LightItalic.ttf b/css/fonts/Merriweather-LightItalic.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/Merriweather-Regular.ttf b/css/fonts/Merriweather-Regular.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/__glyphicons-halflings-regular.eot b/css/fonts/__glyphicons-halflings-regular.eot[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/__glyphicons-halflings-regular.svg b/css/fonts/__glyphicons-halflings-regular.svg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/__glyphicons-halflings-regular.ttf b/css/fonts/__glyphicons-halflings-regular.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/__glyphicons-halflings-regular.woff b/css/fonts/__glyphicons-halflings-regular.woff[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/glyphicons-halflings-regular.eot b/css/fonts/glyphicons-halflings-regular.eot[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/glyphicons-halflings-regular.svg b/css/fonts/glyphicons-halflings-regular.svg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/glyphicons-halflings-regular.ttf b/css/fonts/glyphicons-halflings-regular.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/fonts/glyphicons-halflings-regular.woff b/css/fonts/glyphicons-halflings-regular.woff[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/jquery-ui.css b/css/jquery-ui.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/jquery.fancybox.min.css b/css/jquery.fancybox.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/magnific-popup.css b/css/magnific-popup.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/mediaelementplayer.css b/css/mediaelementplayer.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/owl.carousel.min.css b/css/owl.carousel.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/owl.theme.default.min.css b/css/owl.theme.default.min.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/css/style.css b/css/style.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/.DS_Store b/fonts/.DS_Store[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/backup.txt b/fonts/flaticon/backup.txt[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/font/Flaticon.eot b/fonts/flaticon/font/Flaticon.eot[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/font/Flaticon.svg b/fonts/flaticon/font/Flaticon.svg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/font/Flaticon.ttf b/fonts/flaticon/font/Flaticon.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/font/Flaticon.woff b/fonts/flaticon/font/Flaticon.woff[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/font/Flaticon.woff2 b/fonts/flaticon/font/Flaticon.woff2[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/font/_flaticon.css b/fonts/flaticon/font/_flaticon.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/font/_flaticon.scss b/fonts/flaticon/font/_flaticon.scss[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/font/flaticon.css b/fonts/flaticon/font/flaticon.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/font/flaticon.html b/fonts/flaticon/font/flaticon.html[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/flaticon/license/license.pdf b/fonts/flaticon/license/license.pdf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/Read Me.txt b/fonts/icomoon/Read Me.txt[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/demo-files/demo.css b/fonts/icomoon/demo-files/demo.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/demo-files/demo.js b/fonts/icomoon/demo-files/demo.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/demo.html b/fonts/icomoon/demo.html[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/fonts/icomoon.eot b/fonts/icomoon/fonts/icomoon.eot[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/fonts/icomoon.svg b/fonts/icomoon/fonts/icomoon.svg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/fonts/icomoon.ttf b/fonts/icomoon/fonts/icomoon.ttf[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/fonts/icomoon.woff b/fonts/icomoon/fonts/icomoon.woff[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/selection.json b/fonts/icomoon/selection.json[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/fonts/icomoon/style.css b/fonts/icomoon/style.css[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/forms/Readme.txt b/forms/Readme.txt[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/forms/contact.php b/forms/contact.php[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/.DS_Store b/images/.DS_Store[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/hero_1.jpg b/images/hero_1.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/hero_2.jpg b/images/hero_2.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/img_1.jpg b/images/img_1.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/img_2.jpg b/images/img_2.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/img_3.jpg b/images/img_3.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/img_4.jpg b/images/img_4.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/img_5.jpg b/images/img_5.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/img_6.jpg b/images/img_6.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_11.png b/images/p_11.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_12.png b/images/p_12.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_13.jpg b/images/p_13.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_14.jpg b/images/p_14.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_2.jpg b/images/p_2.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_21.jpg b/images/p_21.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_22.jpg b/images/p_22.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_32.png b/images/p_32.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_33.png b/images/p_33.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_34.jpg b/images/p_34.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_34.png b/images/p_34.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_35.png b/images/p_35.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_4.jpg b/images/p_4.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_41.png b/images/p_41.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_42.png b/images/p_42.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_43.png b/images/p_43.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_44.png b/images/p_44.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_45.png b/images/p_45.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_46.png b/images/p_46.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_5.jpg b/images/p_5.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_51.png b/images/p_51.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_52.png b/images/p_52.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_53.png b/images/p_53.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_54.png b/images/p_54.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_6.jpg b/images/p_6.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_7.png b/images/p_7.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/p_9.jpg b/images/p_9.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/person_1.jpg b/images/person_1.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/person_2.jpg b/images/person_2.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/person_3.jpg b/images/person_3.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/person_4.jpg b/images/person_4.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/person_5.jpg b/images/person_5.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/person_7.jpg b/images/person_7.jpg[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/images/topography.png b/images/topography.png[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/aos.js b/js/aos.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/bootstrap-datepicker.min.js b/js/bootstrap-datepicker.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/bootstrap.min.js b/js/bootstrap.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/jquery-3.3.1.min.js b/js/jquery-3.3.1.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/jquery-migrate-3.0.1.min.js b/js/jquery-migrate-3.0.1.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/jquery-ui.js b/js/jquery-ui.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/jquery.animateNumber.min.js b/js/jquery.animateNumber.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/jquery.countdown.min.js b/js/jquery.countdown.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/jquery.fancybox.min.js b/js/jquery.fancybox.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/jquery.magnific-popup.min.js b/js/jquery.magnific-popup.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/jquery.stellar.min.js b/js/jquery.stellar.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/jquery.waypoints.min.js b/js/jquery.waypoints.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/main.js b/js/main.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/mediaelement-and-player.min.js b/js/mediaelement-and-player.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/owl.carousel.min.js b/js/owl.carousel.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/popper.min.js b/js/popper.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
+[1mdiff --git a/js/slick.min.js b/js/slick.min.js[m
+[1mold mode 100644[m
+[1mnew mode 100755[m
